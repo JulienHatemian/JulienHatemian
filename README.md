@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+I'm Julien, a little web developper who want to persue his dreams and realise his projects.
+I'm always eager to learn something new.
 
+## 🌱 I’m currently learning :
+  _ PHP
+  _ Symfony
+  _ React (the next step)
 <!--
 **JulienHatemian/JulienHatemian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
